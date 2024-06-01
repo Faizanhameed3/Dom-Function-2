@@ -1,0 +1,40 @@
+.centre{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   margin: auto;
+    width: 105px;
+    height: 265px;
+    border: 2px solid;
+    display: grid;
+    background-color:burlywood;
+    border: none;
+    
+}
+#a{
+    border: 1px solid;
+    width: 55px;
+    height: 55px;
+    border-radius: 95px;
+    background-color: white;
+   
+}
+#b{
+    border: 1px solid;
+    width: 55px;
+    height: 55px;
+    border-radius: 95px;
+    background-color: white;
+    
+   
+}
+#c{
+    border: 1px solid;
+    width: 55px;
+    height: 55px;
+    border-radius: 95px;
+    background-color: white;
+}
+/* #a, #b,  #c{
+  
+} */
